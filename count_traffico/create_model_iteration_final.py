@@ -1,4 +1,7 @@
-#import
+#this file is for the creation of all the forecasting models. it's long to run and probably not worth the time.
+#considering it's just a loop of what happens in the "single model" file, i suggest skipping this file and go to the next.
+#to see graphed the results of the model created. I suggest to start looking at "create_predict_model_final.ipynb".
+
 import sys
 import os
 
